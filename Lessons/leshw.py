@@ -31,7 +31,7 @@ while True:
             n += 1
             songs2[n] = i
         print(songs2)
-        a = int(input("Update the song: "))
+        a = input("Update the song: ")
         if a in songs2:
             b = input("New song name: ")
             songs[a] = b

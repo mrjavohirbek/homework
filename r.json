@@ -1,0 +1,1215 @@
+{
+    "pageUrl": "/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&PAGEN_1=1",
+    "items": [
+        {
+            "id": 161745,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 44,
+            "season": "Летние",
+            "price": 2560,
+            "name": "185/65 R14 86H КАМА Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/4db/275_275_1/2zz5bemb0uc9kakjtn512owvqkgha0ka.png",
+            "url": "/catalog/legkovye/18565-r14-86h-kama-breeze-nk-132-tl87379/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "161745",
+                    "AMOUNT": "40",
+                    "PRODUCT_XML_ID": "87379",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2560.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "161745",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "87379",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "2560.00",
+                    "PRICE_ID": "10"
+                }
+            ],
+            "brand": "KAMA",
+            "brandCode": "",
+            "vendorCode": "1110005",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "161745",
+                    "name": "185/65 R14",
+                    "price": 2560,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-kama-breeze-nk-132-tl87379/"
+                }
+            ]
+        },
+        {
+            "id": 92175,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 173,
+            "season": "Летние",
+            "price": 2590,
+            "name": "175/70 R14 84T КАМА Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/450/275_275_1/pscuw8gt38ckw0gf38vws6twbgzsa2de.png",
+            "url": "/catalog/legkovye/17570-r14-84t-kama-breeze-nk-132-tl92777/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92175",
+                    "AMOUNT": "173",
+                    "PRODUCT_XML_ID": "92777",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2590.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "КАМА",
+            "brandCode": "420",
+            "vendorCode": "1110003",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "92170",
+                    "name": "185/60 R14",
+                    "price": 2560,
+                    "amount": "30",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-kama-breeze-nk-132-tl92763/"
+                },
+                {
+                    "id": "92175",
+                    "name": "175/70 R14",
+                    "price": 2590,
+                    "amount": "173",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-kama-breeze-nk-132-tl92777/"
+                }
+            ]
+        },
+        {
+            "id": 150821,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1300,
+            "season": "Летние",
+            "price": 2610,
+            "name": "185/60 R14 82H КАМА Grant (НК-241) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/08d/275_275_1/mjyz75xaeogsv5q5zrqzq6welr046sii.png",
+            "url": "/catalog/legkovye/18560-r14-82h-kama-grant-nk-241-tl25811/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "150821",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "25811",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "2610.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "150821",
+                    "AMOUNT": "1296",
+                    "PRODUCT_XML_ID": "25811",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2610.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "KAMA",
+            "brandCode": "",
+            "vendorCode": "1110010",
+            "model": "Grant (НК-241)",
+            "raznItems": [
+                {
+                    "id": "150821",
+                    "name": "185/60 R14",
+                    "price": 2610,
+                    "amount": "1296",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-kama-grant-nk-241-tl25811/"
+                }
+            ]
+        },
+        {
+            "id": 100055,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1004,
+            "season": "Летние",
+            "price": 2900,
+            "name": "185/60 R14 82H VIATTI Strada Asimmetrico (V-130) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/9c8/275_275_1/m56x18p5rsjmi8io8ny6q6qzo3srspbp.png",
+            "url": "/catalog/legkovye/18560-r14-82h-viatti-strada-asimmetrico-v-130-tl55719/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "100055",
+                    "AMOUNT": "1003",
+                    "PRODUCT_XML_ID": "55719",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2900.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "100055",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "55719",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "2900.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brand": "VIATTI",
+            "brandCode": "",
+            "vendorCode": "3110004",
+            "model": "Strada Asimmetrico V-130",
+            "raznItems": [
+                {
+                    "id": "100055",
+                    "name": "185/60 R14",
+                    "price": 2900,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-viatti-strada-asimmetrico-v-130-tl55719/"
+                },
+                {
+                    "id": "100056",
+                    "name": "185/65 R14",
+                    "price": 3040,
+                    "amount": "40",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-viatti-strada-asimmetrico-v-130-tl55720/"
+                },
+                {
+                    "id": "100057",
+                    "name": "185/70 R14",
+                    "price": 3260,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88h-viatti-strada-asimmetrico-v-130-tl55721/"
+                }
+            ]
+        },
+        {
+            "id": 109457,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 118,
+            "season": "Летние",
+            "price": 2940,
+            "name": "185/70 R14 88T КАМА Кама-365 (НК-241) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/de0/275_275_1/wz838505d00umcsw5fo19na4x2ophj5j.png",
+            "url": "/catalog/legkovye/18570-r14-88t-kama-kama-365-nk-241-tl06869/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "109457",
+                    "AMOUNT": "112",
+                    "PRODUCT_XML_ID": "06869",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2940.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "109457",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "06869",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": null,
+                    "PRICE_ID": null
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "109457",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "06869",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": null,
+                    "PRICE_ID": null
+                }
+            ],
+            "brand": "KAMA",
+            "brandCode": "",
+            "vendorCode": "1150015",
+            "model": "Кама-365 (НК-241)",
+            "raznItems": [
+                {
+                    "id": "109454",
+                    "name": "175/65 R14",
+                    "price": 2700,
+                    "amount": "1776",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-kama-kama-365-nk-241-tl06862/"
+                },
+                {
+                    "id": "109456",
+                    "name": "185/65 R14",
+                    "price": 2810,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-kama-kama-365-nk-241-tl06867/"
+                },
+                {
+                    "id": "109457",
+                    "name": "185/70 R14",
+                    "price": 2940,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88t-kama-kama-365-nk-241-tl06869/"
+                }
+            ]
+        },
+        {
+            "id": 100054,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 5,
+            "season": "Летние",
+            "price": 2940,
+            "name": "175/70 R14 84H VIATTI Strada Asimmetrico (V-130) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/732/275_275_1/0b7867pi7her8rejxlps0no3juvycbsp.png",
+            "url": "/catalog/legkovye/17570-r14-84h-viatti-strada-asimmetrico-v-130-tl55718/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "100054",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "55718",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "2940.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "100054",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "55718",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "2940.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "VIATTI",
+            "brandCode": "389",
+            "vendorCode": "3110003",
+            "model": "Strada Asimmetrico (V-130)",
+            "raznItems": [
+                {
+                    "id": "100054",
+                    "name": "175/70 R14",
+                    "price": 2940,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84h-viatti-strada-asimmetrico-v-130-tl55718/"
+                }
+            ]
+        },
+        {
+            "id": 93656,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1956,
+            "season": "Летние",
+            "price": 3200,
+            "name": "185/65 R15 88H VIATTI Strada Asimmetrico (V-130) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/c67/275_275_1/831jv640kjk8a65ubq2k3eiw4wgvn3rx.png",
+            "url": "/catalog/legkovye/18565-r15-88h-viatti-strada-asimmetrico-v-130-tl42459/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "93656",
+                    "AMOUNT": "1956",
+                    "PRODUCT_XML_ID": "42459",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3200.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "VIATTI",
+            "brandCode": "389",
+            "vendorCode": "3110009",
+            "model": "Strada Asimmetrico (V-130)",
+            "raznItems": [
+                {
+                    "id": "92768",
+                    "name": "185/60 R15",
+                    "price": 2960,
+                    "amount": "848",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r15-84h-viatti-strada-asimmetrico-v-130-tl07060/"
+                },
+                {
+                    "id": "93656",
+                    "name": "185/65 R15",
+                    "price": 3200,
+                    "amount": "1956",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r15-88h-viatti-strada-asimmetrico-v-130-tl42459/"
+                },
+                {
+                    "id": "100058",
+                    "name": "185/55 R15",
+                    "price": 3340,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18555-r15-82h-viatti-strada-asimmetrico-v-130-tl55722/"
+                },
+                {
+                    "id": "100060",
+                    "name": "195/60 R15",
+                    "price": 3700,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19560-r15-88v-viatti-strada-asimmetrico-v-130-tl55724/"
+                },
+                {
+                    "id": "102503",
+                    "name": "205/65 R15",
+                    "price": 3880,
+                    "amount": "9",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-94v-viatti-strada-asimmetrico-v-130-tl73488/"
+                }
+            ]
+        },
+        {
+            "id": 130999,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 308,
+            "season": "Летние",
+            "price": 3260,
+            "name": "205/55 R16  КАМА Кама-365 (НК-241) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/3a2/275_275_1/xyo6i2leen5mfmpxbyjt67ijusyn2um6.png",
+            "url": "/catalog/legkovye/20555-r16-kama-kama-365-nk-241-tl70136/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "130999",
+                    "AMOUNT": "304",
+                    "PRODUCT_XML_ID": "70136",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3260.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "130999",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "70136",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3260.00",
+                    "PRICE_ID": "11"
+                }
+            ],
+            "brand": "KAMA",
+            "brandCode": "",
+            "vendorCode": "1150023",
+            "model": "Кама-365 (НК-241)",
+            "raznItems": [
+                {
+                    "id": "130999",
+                    "name": "205/55 R16",
+                    "price": 3260,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20555-r16-kama-kama-365-nk-241-tl70136/"
+                }
+            ]
+        },
+        {
+            "id": 155348,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "165 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 3310,
+            "name": "165/65 R14 79T NOKIAN TYRES Nordman SX 3 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/cd4/275_275_1/c8ywwpdvaht5n217akj05rpmxh9pm1i0.png",
+            "url": "/catalog/legkovye/16565-r14-79t-nokian-tyres-nordman-sx-3-tl22251/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "155348",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "22251",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3310.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T432318",
+            "model": "Nordman SX 3",
+            "raznItems": [
+                {
+                    "id": "96919",
+                    "name": "185/60 R14",
+                    "price": 3630,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82t-nokian-tyres-nordman-sx-3-tl22497/"
+                },
+                {
+                    "id": "155348",
+                    "name": "165/65 R14",
+                    "price": 3310,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/16565-r14-79t-nokian-tyres-nordman-sx-3-tl22251/"
+                }
+            ]
+        },
+        {
+            "id": 100058,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 6,
+            "season": "Летние",
+            "price": 3340,
+            "name": "185/55 R15 82H VIATTI Strada Asimmetrico (V-130) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/581/275_275_1/stoel6hadwyzfiy422466xanvns1uc8w.png",
+            "url": "/catalog/legkovye/18555-r15-82h-viatti-strada-asimmetrico-v-130-tl55722/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "100058",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "55722",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3340.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "100058",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "55722",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "3340.00",
+                    "PRICE_ID": "25"
+                }
+            ],
+            "brand": "VIATTI",
+            "brandCode": "389",
+            "vendorCode": "3110007",
+            "model": "Strada Asimmetrico (V-130)",
+            "raznItems": [
+                {
+                    "id": "92768",
+                    "name": "185/60 R15",
+                    "price": 2960,
+                    "amount": "848",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r15-84h-viatti-strada-asimmetrico-v-130-tl07060/"
+                },
+                {
+                    "id": "93656",
+                    "name": "185/65 R15",
+                    "price": 3200,
+                    "amount": "1956",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r15-88h-viatti-strada-asimmetrico-v-130-tl42459/"
+                },
+                {
+                    "id": "100058",
+                    "name": "185/55 R15",
+                    "price": 3340,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18555-r15-82h-viatti-strada-asimmetrico-v-130-tl55722/"
+                },
+                {
+                    "id": "100060",
+                    "name": "195/60 R15",
+                    "price": 3700,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19560-r15-88v-viatti-strada-asimmetrico-v-130-tl55724/"
+                },
+                {
+                    "id": "102503",
+                    "name": "205/65 R15",
+                    "price": 3880,
+                    "amount": "9",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-94v-viatti-strada-asimmetrico-v-130-tl73488/"
+                }
+            ]
+        },
+        {
+            "id": 102371,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 222,
+            "season": "Летние",
+            "price": 3350,
+            "name": "185/60 R15 84H БЕЛШИНА BEL-286 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/26c/275_275_1/1xq0pt53stlwfv48r2lbt9ejh3p0yrhu.png",
+            "url": "/catalog/legkovye/18560-r15-84h-belshina-bel-286-tl73074/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "102371",
+                    "AMOUNT": "222",
+                    "PRODUCT_XML_ID": "73074",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3350.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "БЕЛШИНА",
+            "brandCode": "406",
+            "vendorCode": "259002116",
+            "model": "BEL-286",
+            "raznItems": [
+                {
+                    "id": "102371",
+                    "name": "185/60 R15",
+                    "price": 3350,
+                    "amount": "222",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r15-84h-belshina-bel-286-tl73074/"
+                }
+            ]
+        },
+        {
+            "id": 161744,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 76,
+            "season": "Летние",
+            "price": 3420,
+            "name": "205/65 R15 94T КАМА Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/e5a/275_275_1/2rwchao11cm0931096jmexd0h7f7ch17.png",
+            "url": "/catalog/legkovye/20565-r15-94t-kama-breeze-nk-132-tl07385/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "161744",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "07385",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "3420.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "161744",
+                    "AMOUNT": "74",
+                    "PRODUCT_XML_ID": "07385",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3420.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "КАМА",
+            "brandCode": "420",
+            "vendorCode": "1110008",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "91965",
+                    "name": "195/65 R15",
+                    "price": 2890,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19565-r15-91h-kama-breeze-nk-132-tl87381/"
+                },
+                {
+                    "id": "161744",
+                    "name": "205/65 R15",
+                    "price": 3420,
+                    "amount": "74",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-94t-kama-breeze-nk-132-tl07385/"
+                }
+            ]
+        },
+        {
+            "id": 155516,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "155 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "13 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 3,
+            "season": "Летние",
+            "price": 3450,
+            "name": "155/80 R13 79T NOKIAN TYRES Nordman SX 3 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/309/275_275_1/ld8r087a8fkz8p2nymoo9odh49w5my0w.png",
+            "url": "/catalog/legkovye/15580-r13-79t-nokian-tyres-nordman-sx-3-tl24459/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "155516",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "24459",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3450.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T432316",
+            "model": "Nordman SX 3",
+            "raznItems": [
+                {
+                    "id": "96916",
+                    "name": "175/70 R13",
+                    "price": 3450,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r13-82t-nokian-tyres-nordman-sx-3-tl22412/"
+                },
+                {
+                    "id": "155516",
+                    "name": "155/80 R13",
+                    "price": 3450,
+                    "amount": "3",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/15580-r13-79t-nokian-tyres-nordman-sx-3-tl24459/"
+                }
+            ]
+        },
+        {
+            "id": 138413,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 908,
+            "season": "Летние",
+            "price": 3460,
+            "name": "185/65 R15 88H БЕЛШИНА BEL-280 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/fe0/275_275_1/169avqv5j0w6qwnqil4i4zib3ebymzei.png",
+            "url": "/catalog/legkovye/18565-r15-88h-belshina-bel-280-tl54100/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "138413",
+                    "AMOUNT": "908",
+                    "PRODUCT_XML_ID": "54100",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3460.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "БЕЛШИНА",
+            "brandCode": "406",
+            "vendorCode": "259002084",
+            "model": "BEL-280",
+            "raznItems": [
+                {
+                    "id": "138413",
+                    "name": "185/65 R15",
+                    "price": 3460,
+                    "amount": "908",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r15-88h-belshina-bel-280-tl54100/"
+                }
+            ]
+        }
+    ],
+    "filter": {
+        "0": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "1": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_33": 0,
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0
+        },
+        "2": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "3": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_33": 0,
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0
+        },
+        "=PROPERTY_458": [
+            "154"
+        ]
+    },
+    "promo": {
+        "id": "165954",
+        "url": "/promo/shiny-v-rassrochku/",
+        "name": "Покупки в рассрочку",
+        "text": "Теперь вы можете купить зимние шины, или диски в рассрочку быстро и легко: без первоначального взноса и без переплаты!",
+        "imgSrc": "/upload/resize_cache/iblock/356/1075_613_1/8iiw8xmv2bzky9euo9mn57dqx6dk3xa9.jpg",
+        "videoSrc": null
+    },
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false,
+            204
+        ],
+        "=PROPERTY_CATALOG_BRAND": [
+            false
+        ]
+    },
+    "navNum": 1,
+    "pagesCount": 49,
+    "pageNum": 1
+}
